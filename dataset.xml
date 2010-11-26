@@ -1,0 +1,13 @@
+<!DOCTYPE dataset SYSTEM "dataset.dtd">
+<dataset>
+    <table name="NEWS">
+        <column>DATUM</column>
+        <column>TITEL</column>
+        <column>TEXT</column>
+        <row>
+            <value>31.10.2010</value>
+            <value>Test</value>
+            <value>bla bla</value>
+        </row>
+    </table>
+</dataset>
